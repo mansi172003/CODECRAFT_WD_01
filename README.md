@@ -1,2 +1,3 @@
 # CODECRAFT_WD_01
-This is a responsive landing pagethat would use HTML for its structure,CSS for its styling and JS for interactivity.
+**Responsive Landing Page Coffee 3D**
+Beautiful landing page website Ui, using Html Css and JavaScript. It contains a header and a home section where it shows a title, a description and a button with animations, as well as a 3D image with mouse movement.
